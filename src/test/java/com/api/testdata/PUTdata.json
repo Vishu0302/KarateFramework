@@ -1,0 +1,20 @@
+{
+  "jobId": 10,
+  "jobTitle": "Mech",
+  "jobDescription": "To develop machines",
+  "experience": [
+    "Tata Motors",
+    "Tesla",
+    "Ashok Leyland"
+  ],
+  "project": [
+    {
+      "projectName": "Design App",
+      "technology": [
+        "AutoCAD",
+        "Reinforced Concrete",
+        "Smart Tools"
+      ]
+    }
+  ]
+}
